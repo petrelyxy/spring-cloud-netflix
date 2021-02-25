@@ -55,6 +55,7 @@ import static org.mockito.Mockito.when;
 @ClassPathExclusions("spring-webflux-*")
 public class EurekaConfigServerBootstrapConfigurationTests {
 
+	/** check style test. */
 	@Rule
 	public OutputCaptureRule output = new OutputCaptureRule();
 
